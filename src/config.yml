@@ -1,0 +1,8 @@
+cancel: "&a因為你移動了，所以取消隱身。"
+reload-success: "&a重載成功。"
+point-success: "&a已成功把指南針指向目標位置。"
+point-player: "&e已把指南針指向玩家 <player>"
+point-removed: "&e已清除指南針的指向。"
+no-perm: "&c沒有權限"
+no-players: "方圓 <size> 之內尚未發現玩家，請稍候再試。"
+nearest-size: 100
